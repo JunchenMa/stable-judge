@@ -1,3 +1,3 @@
 # stable-judge
-+ 匹配博弈、排列稳定性判断
-+ 用于检测无人机匹配
++ Game theory, matching game, stability judgment.
++ Used to detect the stability of matching combinations.
